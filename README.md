@@ -1,6 +1,8 @@
 # PS1-Blaze-Xplorer-FX-Pro
 Everything necessary to produce the Xplorer FX Pro for the PS1
 
+PCB Thickness: 0.8 mm
+
 BOM:
 
 1x PS1 Parallel I/O Port Adapter<br>
